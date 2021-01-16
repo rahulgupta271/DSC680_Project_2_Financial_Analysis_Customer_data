@@ -1,4 +1,4 @@
-Project Name: Financial: Analysis on Customer data
+*Project Name: Financial: Analysis on Customer data*
 
 Project Description:
 The business objective of this project is to analyze the success rate in customer retention through direct campaign marketing by a Portuguese Bank for which this data set pertains to

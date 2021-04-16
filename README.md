@@ -1,5 +1,8 @@
 # Project Name: Financial: Analysis on Customer data
 
+This project will concentrate on the patterns in financial and the correlations that influence shifts. I do have background in the banking industry, I'm fascinated in how financial companies decide to rollout the new promotions based on the customer behavior
+
+
 ## Project Description:
 The business objective of this project is to analyze the success rate in customer retention through direct campaign marketing by a Portuguese Bank for which this data set pertains to
 
@@ -15,11 +18,11 @@ Python 3
 ## Installing
 Need to install the following modules:
 
-Pandas
-Scikit-learn
-Numpy
-os
-Execution
+- Pandas
+- Scikit-learn
+- Numpy
+- os
+- Execution
 
 ## Authors
 RAHUL GUPTA
